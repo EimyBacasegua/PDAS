@@ -1,7 +1,7 @@
 export  function ProfileCard(props) {
     console.log(props)
   return (
-    <div>ProfileCard</div>
+    <div>ProfileCard2</div>
   )
 }
 
